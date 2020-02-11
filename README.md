@@ -1,4 +1,4 @@
-# Webdevelopment-Internshala-Final-Project
+# E-store
 
   - First create databse in phpmyadmin with the same name of give SQL file name.
 	- In that database import database.
